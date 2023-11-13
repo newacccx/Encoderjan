@@ -29,9 +29,9 @@ class Config(object):
     AUTH_USERS = list(
         set(
             int(x)
-            for x in os.environ.get("AUTH_USERS", "1676326120").split()))
+            for x in os.environ.get("AUTH_USERS", "1895952308").split()))
     ADMIN = list(
-        set(int(x) for x in os.environ.get("ADMIN", "5629750139").split()))
+        set(int(x) for x in os.environ.get("ADMIN", "1895952308").split()))
     OWNER = list(set(int(x) for x in os.environ.get("OWNER").split()))
     TEMP = "temp/"
     DOWNLOAD_DIR = str(os.environ.get("DOWNLOAD_DIR"))
