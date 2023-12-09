@@ -34,7 +34,9 @@ Deploying Is Actually Really Easy Just Follow The Steps:
 - Fill All Your Info In [config.env](./config.env)
 - Then Build The Dockerfile
 ---
+# Heroku Deploy 😏
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nero-bc/SvtAv1Enc-encoder)
 #### Source
-- [Original Repo](https://gitlab.com/Nirusaki/video-encoder)
+- [Original Repo](https://gitlab.com/StupidBoi/SvtAv1Enc-encoder)
 ---
 ##### PLEASE STAR THE REPO TOOK ME DAYS TO COMPLETE!
